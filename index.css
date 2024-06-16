@@ -1,3 +1,6 @@
 #heading {
     color: red;
 }
+#child-one-heading, #child-two-heading {
+    color: red;
+}
