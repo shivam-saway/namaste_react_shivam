@@ -1,0 +1,26 @@
+{
+  "name": "namaste_react_shivam",
+  "version": "1.0.0",
+  "description": "react learning app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-saway/namaste_react_shivam.git"
+  },
+  "keywords": [
+    "react",
+    "namaste_react_shivam"
+  ],
+  "author": "shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-saway/namaste_react_shivam/issues"
+  },
+  "homepage": "https://github.com/shivam-saway/namaste_react_shivam#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
